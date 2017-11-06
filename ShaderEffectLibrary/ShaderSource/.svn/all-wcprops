@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource
+END
+BandedSwirl.ps
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/BandedSwirl.ps
+END
+ColorTone.fx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ColorTone.fx
+END
+Pinch.ps
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Pinch.ps
+END
+InvertColor.fx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/InvertColor.fx
+END
+Bloom.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Bloom.fx
+END
+ColorTone.ps
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ColorTone.ps
+END
+ZoomBlur.fx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ZoomBlur.fx
+END
+Pixelate.fx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Pixelate.fx
+END
+InvertColor.ps
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/InvertColor.ps
+END
+Bloom.ps
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Bloom.ps
+END
+ZoomBlur.ps
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ZoomBlur.ps
+END
+Pixelate.ps
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Pixelate.ps
+END
+LightStreak.fx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/LightStreak.fx
+END
+ToneMapping.fx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ToneMapping.fx
+END
+DirectionalBlur.fx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/DirectionalBlur.fx
+END
+SmoothMagnify.fx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/SmoothMagnify.fx
+END
+LightStreak.ps
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/LightStreak.ps
+END
+ToneMapping.ps
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ToneMapping.ps
+END
+DirectionalBlur.ps
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/DirectionalBlur.ps
+END
+GrowablePoissonDisk.fx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/GrowablePoissonDisk.fx
+END
+SmoothMagnify.ps
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/SmoothMagnify.ps
+END
+Magnify.fx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Magnify.fx
+END
+GrowablePoissonDisk.ps
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/GrowablePoissonDisk.ps
+END
+ColorKeyAlpha.fx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ColorKeyAlpha.fx
+END
+Magnify.ps
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Magnify.ps
+END
+Sharpen.fx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Sharpen.fx
+END
+Swirl.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Swirl.fx
+END
+Embossed.fx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Embossed.fx
+END
+ColorKeyAlpha.ps
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ColorKeyAlpha.ps
+END
+Sharpen.ps
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Sharpen.ps
+END
+Swirl.ps
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Swirl.ps
+END
+Monochrome.fx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Monochrome.fx
+END
+Embossed.ps
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Embossed.ps
+END
+ToonShader.fx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ToonShader.fx
+END
+ContrastAdjust.fx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ContrastAdjust.fx
+END
+BrightExtract.fx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/BrightExtract.fx
+END
+Monochrome.ps
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Monochrome.ps
+END
+ToonShader.ps
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ToonShader.ps
+END
+Gloom.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Gloom.fx
+END
+ContrastAdjust.ps
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/ContrastAdjust.ps
+END
+BrightExtract.ps
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/BrightExtract.ps
+END
+Gloom.ps
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Gloom.ps
+END
+Ripple.fx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Ripple.fx
+END
+BandedSwirl.fx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/BandedSwirl.fx
+END
+Ripple.ps
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Ripple.ps
+END
+Pinch.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19891/WPF/ShaderEffectLibrary/ShaderSource/Pinch.fx
+END
