@@ -33,7 +33,7 @@ namespace ChromaKey
         {
             InitializeComponent();
             dispatcherTimer = new DispatcherTimer(DispatcherPriority.Normal);
-            dispatcherTimer.Interval = new TimeSpan(0, 0, 0, 0, 60);
+            dispatcherTimer.Interval = new TimeSpan(0, 0, 0, 0, (int)(1000/60));
             dispatcherTimer.Tick += DispatcherTimer_Tick;
             dispatcherTimer.Start();
 
